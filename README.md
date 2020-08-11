@@ -6,3 +6,6 @@ Some description!
 
 Some more text.
 
+## Start Dvelopment
+Open index.html in browser
+
